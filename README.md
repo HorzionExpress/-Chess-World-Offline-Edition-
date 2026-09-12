@@ -5,7 +5,7 @@ Hey folks! 👋 Yep, this is my third crack at making a game — I'm slowly figu
 
 ‌
 Chess World (Offline Edition)‌ is a cozy, zero-dependency collection of classic board games, built entirely with vanilla JavaScript and Canvas. No servers,  no annoying ads — 
-just copy the web adress and you're ready to play, even on a plane with no Wi-Fi. ♟️✨(you need to downlaod it first to play offline!)
+just copy the web adress https://horzionexpress.github.io/-Chess-World-Offline-Edition-/ and you're ready to play, even on a plane with no Wi-Fi. ♟️✨(you need to downlaod it first to play offline!)
 
 How to play?
 
